@@ -21,9 +21,9 @@ Although this chatbot may not have exceptional cognitive skills or be state-of-t
 You can run Chatbot Through Terminal
 
 ```
-git clone https://github.com/roshancharlie/College-Chatbot-Using-ML-and-NLP.git
+git clone https://github.com/PrasanthNimmala0/college_chatbot
 
-cd College-Chatbot-Using-ML-and-NLP
+cd College_chatbot
 
 pip install -r requirements.txt
 
