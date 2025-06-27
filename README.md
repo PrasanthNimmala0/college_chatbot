@@ -21,7 +21,7 @@ Although this chatbot may not have exceptional cognitive skills or be state-of-t
 You can run Chatbot Through Terminal
 
 ```
-git clone https://github.com/PrasanthNimmala0/college_chatbot
+git clone https://github.com/rohit7234/college_chatbot
 
 cd College_chatbot
 
@@ -34,8 +34,8 @@ python app.py
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 <p align="center">
-    <a href="mailto:nimmalaprasanthtirupatireddy@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-    <a href="https://www.linkedin.com/in/prasanth-tirupati-reddy-nimmala-631061370" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://www.instagram.com/prasanth_reddy_444?igsh=MTR6aDBiYngyOXplZw==" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
-    <a href="https://github.com/PrasanthNimmala0" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="25px"></a>
+    <a href="mailto:subbareddyyakkanti27@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="https://www.linkedin.com/in/subbareddyyakkanti" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/reddy._1364/?hl=en" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://github.com/rohit7234" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="25px"></a>
 </p>
